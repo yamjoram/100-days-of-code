@@ -8,6 +8,6 @@ elif BMI < 25:
 elif BMI < 30:
     print(f"your bmi is {BMI}, you are overwight")
 elif BMI < 35:
-    print(f"your bmi is {BMI}, you are obese")
+    print(f"your bmi is {BMI}, you are excess")
 else:
     print(f"your bmi is {BMI}, you are clinically obese.")
